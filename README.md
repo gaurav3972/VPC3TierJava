@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VPC3TierJava
 ## Student Management Web Application – AWS Deployment Guide
 ## What This App Does
@@ -176,3 +177,6 @@ We used JSP/Servlets for the backend and MySQL for the database.
 
 To make things cool, we dockerized the app and set it up to run on AWS securely with a Virtual Private Cloud (VPC) that has three subnets — one public and two private.
 The app server runs in one private subnet, and the database runs in another private subnet, with the public subnet handling NAT Gateway and Bastion Host for security.
+=======
+# VPC3TierJava
+>>>>>>> dac42815e9d9e740f047fad2c151bf094f08eec3
