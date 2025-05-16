@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # VPC3TierJava
 ## Student Management Web Application – AWS Deployment Guide
 ## What This App Does
