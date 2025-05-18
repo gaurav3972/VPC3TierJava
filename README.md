@@ -135,7 +135,6 @@ Set alarms for CPU usage, disk space, and RDS health metrics.
 
 * Log Retention:
 Manage log retention policies to optimize storage costs.
-
 ## output:
 ![](https://github.com/gaurav3972/VPC3TierJava/blob/main/THREE%20TIER%20USING%20JAVA/OUPUT%200R%20APPLICATION.png)
 ## 7. Backup and Recovery Strategy
