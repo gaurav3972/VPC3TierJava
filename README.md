@@ -139,7 +139,7 @@ Manage log retention policies to optimize storage costs.
 ![](https://github.com/gaurav3972/VPC3TierJava/blob/main/THREE%20TIER%20USING%20JAVA/OUPUT%200R%20APPLICATION.png)
 ## 7. Backup and Recovery Strategy
 * RDS Backups:
-Use AWS RDS automated backups with retention period (recommended 7+ days).
+Use AWS RDS automated backups with retention period.
 
 * Snapshots:
 Take manual snapshots before major updates or maintenance.
