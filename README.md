@@ -9,7 +9,7 @@
 - Designed to be deployed securely on AWS using a 3-subnet VPC  
 
 ---
-
+![](https://github.com/gaurav3972/VPC3TierJava/blob/main/THREE%20TIER%20USING%20JAVA/structure.png)
 ## Our AWS Setup Explained
 
 We wanted to make sure the app is secure and runs smoothly on AWS, so here’s how we set it up:
