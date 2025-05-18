@@ -150,7 +150,8 @@ Create AMI images of the EC2 instance regularly or before changes.
 
 * Disaster Recovery:
 Store backups securely in Amazon S3 with versioning and lifecycle policies.
-
+## linux commands:
+![](https://github.com/gaurav3972/VPC3TierJava/blob/main/THREE%20TIER%20USING%20JAVA/COMMANDS%20FOR%20LINUX.png)
 ## 8. Cost Management Tips
 * Use reserved or spot EC2 instances where applicable.
 
@@ -182,5 +183,3 @@ We used JSP/Servlets for the backend and MySQL for the database.
 To make things cool, we dockerized the app and set it up to run on AWS securely with a Virtual Private Cloud (VPC) that has three subnets — one public and two private.
 The app server runs in one private subnet, and the database runs in another private subnet, with the public subnet handling NAT Gateway and Bastion Host for security.
 =======
-# VPC3TierJava
->>>>>>> dac42815e9d9e740f047fad2c151bf094f08eec3
