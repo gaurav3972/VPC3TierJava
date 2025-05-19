@@ -1,4 +1,4 @@
-# VPC3TierJava
+# VPC Three Tier Project
 ## Student Management Web Application – AWS Deployment Guide
 ## What This App Does
 
