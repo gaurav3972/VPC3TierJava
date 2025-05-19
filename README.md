@@ -174,7 +174,39 @@ Store backups securely in Amazon S3 with versioning and lifecycle policies.
 ## License
 **MIT License**
 
-## Summary
+## 📝 Project Summary
 Hey! This is our Student Management Web Application project built as part of our course.
 It’s a Java web app that lets you add, update, delete, and view student records.
 We used JSP/Servlets for the backend and MySQL for the database.To make things cool, we dockerized the app and set it up to run on AWS securely with a Virtual Private Cloud (VPC) that has three subnets one public and two private.The app server runs in one private subnet, and the database runs in another private subnet, with the public subnet handling NAT Gateway and Bastion Host for security.
+📝 Project Summary
+Student Management Web Application using Java with AWS Deployment
+
+This project is a Java-based web application for managing student records. It allows users to:
+
+* Add, update, delete, and view student records via a web interface.
+
+* Use JSP/Servlets for the backend.
+
+* Store data in a MySQL database.
+
+* Deploy the app in a Docker container.
+
+It is securely deployed on AWS using a 3-tier architecture within a Virtual Private Cloud (VPC):
+
+* Public Subnet: Hosts the NAT Gateway and Bastion Host for secure internet access.
+
+* Private Subnet 1: Contains the EC2 instance running the application (Tomcat).
+
+* Private Subnet 2: Contains the MySQL database hosted in Amazon RDS, isolated from the internet.
+
+The project also demonstrates:
+
+* Secure access with security groups and routing.
+
+* Environment variable configuration for database connectivity.
+
+* Optional Docker containerization and deployment.
+
+* Monitoring and backups using AWS CloudWatch, RDS snapshots, and AMIs.
+
+* Cost-saving strategies using AWS features.
