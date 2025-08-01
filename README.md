@@ -81,7 +81,7 @@ This section provides a comprehensive explanation of the configuration and setup
 - **Software Installation**:  
   - Install Java Development Kit (JDK 8 or above).  
   - Install Apache Tomcat server or Docker if using containerized deployment.  
-  - Transfer the application WAR file or Docker image.
+  - Transfer the application WAR file or Docker image.  
 
 - **Environment Variables**:  
   Configure the database connection environment variables for the application:
